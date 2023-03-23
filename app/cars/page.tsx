@@ -40,7 +40,7 @@ export default function Cars() {
 
   return (
     <div className="max-w-7xl mx-auto py-10">
-      <div className="flex items-center justify-between mb-10">
+      <div className="flex items-center justify-between mb-10 flex-col gap-5 lg:gap-0 lg:flex-row">
         <div className="relative">
           <input
             type="text"

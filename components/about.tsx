@@ -6,7 +6,7 @@ const About = () => {
           Chi Siamo
         </h1>
 
-        <div className="text-center lg:w-2/4 w-fit h-fit mx-auto text-2xl p-10 backdrop-blur-xl rounded-xl">
+        <div className="text-center lg:w-2/4 w-fit h-fit mx-auto text-2xl py-10 backdrop-blur-xl rounded-xl">
           <p>
             Siamo un&apos;azienda specializzata nella vendita di automobili di
             alta qualità. La nostra missione è quella di offrire ai nostri
