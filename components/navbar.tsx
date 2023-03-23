@@ -19,20 +19,19 @@ export default function Navbar() {
             Cars Oltu
           </button>
         </Link>
-
         <div className="items-stretch hidden lg:flex">
           <Link href="/cars">
-            <button className="btn btn-ghost">Cars</button>
+            <button className="btn btn-ghost">Auto</button>
           </Link>
 
           <a href="/#intro" className="btn btn-ghost">
             Home
           </a>
           <a href="/#about" className="btn btn-ghost">
-            About
+            Chi Siamo
           </a>
           <a href="/#contact" className="btn btn-ghost">
-            Contact
+            Contatti
           </a>
         </div>
 
@@ -51,7 +50,7 @@ export default function Navbar() {
                   className="btn btn-ghost"
                   onClick={() => setIsOpen(false)}
                 >
-                  Cars
+                  Auto
                 </button>
               </Link>
 
@@ -68,7 +67,7 @@ export default function Navbar() {
                 className="btn btn-ghost"
                 onClick={() => setIsOpen(false)}
               >
-                About
+                Chi Siamo
               </a>
 
               <a
@@ -76,7 +75,7 @@ export default function Navbar() {
                 className="btn btn-ghost"
                 onClick={() => setIsOpen(false)}
               >
-                Contact
+                Contatti
               </a>
             </div>
           </div>

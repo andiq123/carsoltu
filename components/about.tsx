@@ -1,5 +1,3 @@
-import { businessInfo } from "@/data/bussiness-info";
-
 const About = () => {
   return (
     <div>
@@ -10,9 +8,9 @@ const About = () => {
 
         <div className="text-center lg:w-2/4 w-fit h-fit mx-auto text-2xl p-10 backdrop-blur-xl rounded-xl">
           <p>
-            Siamo un'azienda specializzata nella vendita di automobili di alta
+            Siamo un\'azienda specializzata nella vendita di automobili di alta
             qualità. La nostra missione è quella di offrire ai nostri clienti
-            un'esperienza di acquisto eccezionale, fornendo veicoli affidabili,
+            un\'esperienza di acquisto eccezionale, fornendo veicoli affidabili,
             sicuri e di lusso a prezzi competitivi. Ci impegniamo a garantire la
             soddisfazione dei nostri clienti attraverso un servizio
             personalizzato, trasparente e professionale.
