@@ -1,7 +1,3 @@
-import Image from "next/image";
-import { Inter } from "next/font/google";
-import styles from "./page.module.css";
-import Link from "next/link";
 import About from "@/components/about";
 import Intro from "@/components/intro";
 import Contact from "@/components/contact";
