@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div>
-      <div className="p-10 relative" id="about">
+      <div className="p-10 relative overflow-hidden" id="about">
         <h1 className="text-3xl font-bold mb-5 w-fit p-5 bg-primary color-white relative rounded-lg">
           Chi Siamo
         </h1>

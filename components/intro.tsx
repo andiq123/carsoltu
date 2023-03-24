@@ -2,7 +2,7 @@ export default function Intro() {
   return (
     <div
       id="intro"
-      className="hero py-64 bg-base-300 backdrop-blur-3xl"
+      className="hero py-64 bg-base-300"
       style={{
         backgroundImage: `url("/images/main.png")`,
       }}
