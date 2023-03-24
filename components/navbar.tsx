@@ -13,7 +13,7 @@ export default function Navbar() {
 
   return (
     <div className="navbar bg-base-200 justify-center">
-      <div className="flex w-full justify-between max-w-6xl">
+      <div className="flex w-full justify-between">
         <Link href="/">
           <button className="btn btn-ghost normal-case text-xl">
             Cars Oltu
