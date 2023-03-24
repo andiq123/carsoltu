@@ -24,7 +24,7 @@ export default function Footer() {
       <div>
         <span className="footer-title">Business Info</span>
         <p>
-          Tippo soggeto - {businessInfo.tipoDichiarazione}
+          Tippo soggeto - {businessInfo.tipoSoggetto}
           {/* <br />
           Data Inizio Attività: {businessInfo.dataInizioAttivita} */}
           <br />
